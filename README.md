@@ -10,10 +10,10 @@ _Sem fogo e sangue, apenas votos._
 - HTML;
 - CSS;
 
-#### <a href=""> Vote aqui </a>
+#### <a href="https://felipelouzeiro.github.io/eleicoes-hotd/"> Vote aqui </a>
 
 #### _Votando_
 
-![votando]('')
+![votando](https://raw.githubusercontent.com/felipelouzeiro/eleicoes-hotd/master/assets/votando.gif)
 
-Feito com :crown:.
+Forjado com :heart: , :fire: e :dragon:.
